@@ -10,7 +10,7 @@ shows your Brier score and calibration — are your 70%s really 70%?
 ## Install
 
 ```
-/plugin marketplace add <owner>/mentatree
+/plugin marketplace add svenvan945/mentatree
 /plugin install mentatree
 ```
 

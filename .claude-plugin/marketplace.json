@@ -1,0 +1,17 @@
+{
+  "name": "mentatree",
+  "owner": { "name": "svenvan945" },
+  "metadata": {
+    "description": "Decision-making skills distilled from books, on a shared calibration spine.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mentatree",
+      "source": "./",
+      "description": "A library of decision-making skills distilled from books (Superforecasting, Thinking in Bets, Decisive, Kahneman), with a shared predict-review-Brier calibration ledger.",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}

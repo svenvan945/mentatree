@@ -1,0 +1,8 @@
+{
+  "name": "mentatree",
+  "description": "Decision-making skills distilled from books, with a shared calibration ledger.",
+  "version": "0.1.0",
+  "author": { "name": "svenvan945" },
+  "license": "MIT",
+  "keywords": ["decision-making", "forecasting", "calibration", "superforecasting", "skills"]
+}
